@@ -1,0 +1,3002 @@
+[
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 1,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.1.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 2,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.2.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 3,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.3.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 4,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.4.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 5,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.5.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 6,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.6.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 7,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.7.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 8,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.8.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 9,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.9.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 10,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.10.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 11,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.11.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 12,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.12.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 13,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.13.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 14,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.14.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 15,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.15.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 16,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.16.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 17,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.17.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 18,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.18.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 19,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.19.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 20,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.20.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 21,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.21.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 22,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.22.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 23,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.23.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 24,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.24.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 25,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.25.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 26,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.26.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 27,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.27.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 28,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.28.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 29,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.29.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 30,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.30.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 31,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.31.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 32,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.32.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 33,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.33.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 34,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.34.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 35,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.35.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 36,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.36.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 37,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.37.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 38,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.38.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 39,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.39.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 40,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.40.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 41,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.41.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 42,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.42.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 43,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.43.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 44,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.44.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 45,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.45.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 46,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.46.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 47,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.47.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 48,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.48.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 49,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.49.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 50,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.50.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 51,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.51.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 52,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.52.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 53,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.53.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 54,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.54.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 55,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.55.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 56,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.56.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 57,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.57.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 58,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.58.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 59,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.59.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 60,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.60.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 61,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.61.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 62,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.62.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 63,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.63.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 64,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.64.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 65,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.65.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 66,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.66.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 67,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.67.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 68,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.68.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 69,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.69.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 70,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.70.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 71,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.71.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 72,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.72.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 73,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.73.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 74,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.74.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 75,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.75.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 76,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.76.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 77,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.77.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 78,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.78.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 79,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.79.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 80,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.80.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 81,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.81.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 82,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.82.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 83,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.83.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 84,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.84.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 85,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.85.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 86,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.86.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 87,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.87.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 88,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.88.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 89,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.89.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 90,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.90.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 91,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.91.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 92,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.92.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 93,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.93.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 94,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.94.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 95,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.95.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 96,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.96.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 97,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.97.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 98,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.98.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 99,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.99.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 100,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.100.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 101,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.101.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 102,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.102.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 103,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.103.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 104,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.104.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 105,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.105.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 106,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.106.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 107,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.107.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 108,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.108.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 109,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.109.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 110,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.110.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 111,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.111.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 112,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.112.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 113,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.113.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 114,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.114.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 115,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.115.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 116,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.116.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 117,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.117.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 118,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.118.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 119,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.119.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 120,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.120.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 121,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.121.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 122,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.122.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 123,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.123.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 124,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.124.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 125,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.125.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 126,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.126.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 127,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.127.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 128,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.128.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 129,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.129.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 130,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.130.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 131,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.131.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 132,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.132.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 133,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.133.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 134,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.134.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 135,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.135.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 136,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.136.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 137,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.137.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 138,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.138.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 139,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.139.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 140,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.140.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 141,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.141.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 142,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.142.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 143,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.143.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 144,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.144.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 145,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.145.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 146,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.146.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 147,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.147.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 148,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.148.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 149,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.149.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 150,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.150.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 151,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.151.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 152,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.152.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 153,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.153.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 154,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.154.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 155,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.155.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 156,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.156.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 157,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.157.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 158,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.158.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 159,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.159.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 160,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.160.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 161,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.161.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 162,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.162.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 163,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.163.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 164,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.164.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 165,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.165.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 166,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.166.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 167,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.167.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 168,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.168.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 169,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.169.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 170,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.170.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 171,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.171.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 172,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.172.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 173,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.173.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 174,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.174.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 175,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.175.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 176,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.176.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 177,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.177.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 178,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.178.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 179,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.179.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 180,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.180.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 181,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.181.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 182,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.182.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 183,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.183.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 184,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.184.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 185,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.185.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 186,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.186.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 187,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.187.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 188,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.188.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 189,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.189.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 190,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.190.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 191,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.191.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 192,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.192.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 193,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.193.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 194,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.194.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 195,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.195.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 196,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.196.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 197,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.197.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 198,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.198.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 199,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.199.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 200,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.200.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 201,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.201.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 202,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.202.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 203,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.203.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 204,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.204.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 205,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.205.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 206,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.206.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 207,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.207.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 208,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.208.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 209,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.209.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 210,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.210.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 211,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.211.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 212,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.212.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 213,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.213.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 214,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.214.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 215,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.215.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 216,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.216.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 217,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.217.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 218,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.218.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 219,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.219.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 220,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.220.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 221,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.221.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 222,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.222.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 223,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.223.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 224,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.224.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 225,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.225.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 226,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.226.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 227,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.227.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 228,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.228.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 229,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.229.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 230,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.230.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 231,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.231.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 232,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.232.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 233,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.233.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 234,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.234.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 235,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.235.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 236,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.236.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 237,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.237.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 238,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.238.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 239,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.239.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 240,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.240.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 241,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.241.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 242,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.242.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 243,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.243.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 244,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.244.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 245,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.245.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 246,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.246.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 247,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.247.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 248,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.248.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 249,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.249.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 250,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.250.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 251,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.251.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 252,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.252.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 253,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.253.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 254,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.254.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 255,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.255.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 256,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.256.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 257,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.257.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 258,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.258.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 259,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.259.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 260,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.260.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 261,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.261.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 262,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.262.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 263,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.263.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 264,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.264.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 265,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.265.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 266,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.266.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 267,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.267.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 268,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.268.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 269,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.269.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 270,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.270.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 271,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.271.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 272,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.272.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 273,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.273.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 274,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.274.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 275,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.275.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 276,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.276.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 277,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.277.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 278,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.278.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 279,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.279.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 280,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.280.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 281,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.281.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 282,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.282.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 283,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.283.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 284,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.284.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 285,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.285.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 286,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.286.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 287,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.287.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 288,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.288.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 289,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.289.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 290,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.290.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 291,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.291.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 292,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.292.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 293,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.293.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 294,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.294.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 295,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.295.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 296,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.296.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 297,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.297.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 298,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.298.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 299,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.299.patch"
+            }
+        ]
+    },
+    {
+        "bug_id": "defects4j<SEP>Cli-24",
+        "patch_index": 300,
+        "patch_contents": [
+            {
+                "relative_file_position": "src/java/org/apache/commons/cli/HelpFormatter.java",
+                "patch_content_position": "/home/debugeval/NPR4J/results/CodeBERT-ft/defects4j<SEP>Cli-24/HelpFormatter.300.patch"
+            }
+        ]
+    }
+]
